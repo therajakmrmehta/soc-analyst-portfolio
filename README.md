@@ -52,3 +52,4 @@ Welcome to my cybersecurity portfolio!
 ## 📫 Contact
 
 - **GitHub:** https://github.com/therajakmrmehta
+- **Linkdin:** https://www.linkedin.com/in/therajakrmehta
