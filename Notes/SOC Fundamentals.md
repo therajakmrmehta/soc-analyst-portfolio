@@ -111,14 +111,14 @@ A SOC Analyst monitors, detects, investigates, and responds to security threats 
 
    **Some SOAR products commonly used in the industry:**
 
-    Splunk Phantom
-    IBM Resilient
-    Logsign
-    Demisto
+    -Splunk Phantom
+    -IBM Resilient
+    -Logsign
+    -Demisto
 
 ## Playbooks
 
-    Predefined steps or workflows that guide security teams or automate actions to investigate and respond to security incidents.
+   Predefined steps or workflows that guide security teams or automate actions to investigate and respond to security incidents.
 
     Example: Detect a phishing email → Analyze the URL → Block the malicious URL → Notify the SOC Analyst.
 
